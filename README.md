@@ -3,7 +3,9 @@
 An interactive simulation of sequential Stern-Gerlach experiments. You connect magnets along any axis, block output beams, and watch the final spin distribution change.
 
 ## How to run
-You can Simply Run portable exe file for windows in Windows_exe
+
+You can Simply Run portable exe file for windows in Windows_exe directory.
+
 You need Python 3.11 or newer. In the project folder, create a virtual environment and install the dependencies (NumPy, Matplotlib and pytest):
 
 ```powershell
